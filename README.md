@@ -1,4 +1,4 @@
-#Terminal Sudoku
+# Terminal Sudoku
 
 A simple Sudoku game that runs in the terminal. It displays a grid with rows and columns and lets you enter numbers into cells. The game checks whether each move is legal and provides a command to exit whenever you like.
 
